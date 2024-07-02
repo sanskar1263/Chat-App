@@ -1,3 +1,18 @@
-# Chat-App
+# Chat App
 
-I have developed a chat app using MERN Stack and socket.io 
+This is a Chat App made using MERN stack and socket.io , it enables users to sign up and perform real time chat with other users.
+
+## Table of Contents
+
+- [Installation](#installation)
+    Clone the repo.
+- [Usage](#usage)
+    npm run build
+    npm run server(in the backend terminal)
+    npm run dev(in the frontend terminal)
+
+
+#Features
+1. It provies a login and signup page.
+2. A home page which consists ofa sidebar which displays all the users.
+3. A user can select any user and start real time chatting.
