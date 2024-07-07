@@ -7,9 +7,9 @@ This is a Chat App made using MERN stack and socket.io , it enables users to sig
 - [Installation](#installation)
     Clone the repo.
 - [Usage](#usage)
-    npm run build
-    npm run server(in the backend terminal)
-    npm run dev(in the frontend terminal)
+   1. npm run build
+   2. npm run server(in the backend terminal)
+   3. npm run dev(in the frontend terminal)
 
 
 #Features
